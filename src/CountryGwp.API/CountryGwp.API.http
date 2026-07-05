@@ -1,0 +1,6 @@
+@CountryGwp.API_HostAddress = http://localhost:5285
+
+GET {{CountryGwp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
